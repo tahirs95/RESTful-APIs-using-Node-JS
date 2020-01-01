@@ -1,6 +1,6 @@
 # Practicing RESTful APIs using Node JS
 
-A barebones Node.js app using [Express 4].
+A Node.js app using [Express 4].
 
 ## Running Locally
 
