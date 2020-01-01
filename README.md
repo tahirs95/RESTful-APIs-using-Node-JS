@@ -14,7 +14,11 @@ nodemon index.js
 ```
 
 Your app should now be running on [localhost:3000](http://localhost:3000/).
-To run on different port, use export PORT=5000 and then restart the application.
+
+## Running on different port
+```
+export PORT=5000
+```
 
 ## Deploying to Heroku
 
